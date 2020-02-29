@@ -9,7 +9,7 @@ int main()
    cin >> a >> b;
 
    c = a - b;
-   cout <<"diff of the numbers: " << c << endl;
+   cout <<"d of the numbers: " << c << endl;
    
    return 0;
 }
