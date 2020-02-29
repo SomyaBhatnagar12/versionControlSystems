@@ -9,7 +9,7 @@ int main()
    cin >> a >> b;
 
    c = a - b;
-   cout <<"d of the numbers: " << c << endl;
+   cout <<"numbers n1 minus n2: " << c << endl;
    
    return 0;
 }
